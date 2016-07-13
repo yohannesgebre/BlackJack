@@ -7,6 +7,9 @@
 using namespace std;
 
 void gotoxy(short x, short y)
+
+
+ihbkqwrnfauvinawfm
 {
 	COORD coord;
 
