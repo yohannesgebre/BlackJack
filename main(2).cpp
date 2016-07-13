@@ -8,8 +8,6 @@ using namespace std;
 
 void gotoxy(short x, short y)
 
-
-ihbkqwrnfauvinawfm
 {
 	COORD coord;
 
@@ -25,12 +23,7 @@ int main()
 	srand(time(0));
 	deck.shuffle();
 
-	while (!deck.is_empty())
-	{
-		gotoxy(rand() % 77, rand() % 22);
-		deck.draw_card().display_card();
-		cin.get();
-	}
+	
 	
 	return 0;
 }
