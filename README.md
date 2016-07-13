@@ -1,2 +1,4 @@
 # BlackJack
-BlackJack project by David &amp; Johannes
+BlackJack by David &amp; Johannes
+
+This is an edit
